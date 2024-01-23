@@ -1,0 +1,10 @@
+.header-container{
+    display: flex;
+    text-align: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
