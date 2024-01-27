@@ -9,5 +9,5 @@ import { ContactFormComponent } from '../../components/contact-form/contact-form
   styleUrl: './contact.component.css'
 })
 export class ContactComponent {
-@Input() imageBg = '/assets/img/blue-bg.svg';
+@Input() imageBg = 'assets/img/blue-bg.svg';
 }
